@@ -1,6 +1,6 @@
 <div align="center">
 
-# AEX-BOT WHATSAPP
+# PANJOELIAN BOT WHATSAPP
 [![CodeFactor](https://www.codefactor.io/repository/github/ibnusyawall/aex-bot/badge/master)](https://www.codefactor.io/repository/github/ibnusyawall/aex-bot/overview/master)
 <details>
  <summary>Help me!</summary>
@@ -21,8 +21,8 @@
 ### Install
 
 ```sh
-$ git clone https://github.com/ibnusyawall/aex-bot.git
-$ cd aex-bot
+$ git clone https://github.com/lostsk1/panjoelian-bot.git
+$ cd panjoelian-bot
 $ npm i
 $ npm start
 ```
